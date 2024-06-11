@@ -1,0 +1,22 @@
+{
+	"modules": {
+		"official": {
+			"enabled": "0.0.0-latest",
+			"v": {
+				"0.0.0-latest": {
+					"artifacts": [],
+					"providers": []
+				}
+			}
+		},
+		"Delusoire": {
+			"enabled": "0.0.0-latest",
+			"v": {
+				"0.0.0-latest": {
+					"artifacts": [],
+					"providers": []
+				}
+			}
+		}
+	}
+}
