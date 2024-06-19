@@ -1,20 +1,24 @@
 {
 	"modules": {
-		"official": {
+		"/official": {
 			"enabled": "0.0.0-latest",
 			"v": {
 				"0.0.0-latest": {
 					"artifacts": [],
-					"providers": ["https://raw.githubusercontent.com/spicetify/modules/main/vault.json"]
+					"providers": [
+						"https://raw.githubusercontent.com/spicetify/modules/main/vault.json"
+					]
 				}
 			}
 		},
-		"Delusoire": {
+		"/Delusoire": {
 			"enabled": "0.0.0-latest",
 			"v": {
 				"0.0.0-latest": {
 					"artifacts": [],
-					"providers": ["https://raw.githubusercontent.com/Delusoire/bespoke-modules/main/vault.json"]
+					"providers": [
+						"https://raw.githubusercontent.com/Delusoire/bespoke-modules/main/vault.json"
+					]
 				}
 			}
 		}
